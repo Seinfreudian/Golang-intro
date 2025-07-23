@@ -1,0 +1,22 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Output of go build / go run
+/build/
+bin/
+*.log
+
+# Dependency directories (if you're using vendoring)
+vendor/
+
+# Editor/IDE stuff
+.vscode/
+.idea/
+*.swp
+.DS_Store
