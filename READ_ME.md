@@ -1,0 +1,1 @@
+Just an intro to Go, need it for some tasks.
